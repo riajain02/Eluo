@@ -1,0 +1,93 @@
+formaldehyde
+paraformaldehyde
+methylene glycol
+quaternium 15
+mercury
+dibutyl phthalate
+diethylhexyl phthalate
+isobutyl paraben
+isopropyl paraben
+polyfluoroalkyl
+phenylenediamine
+butylated hydroxyanisole
+bha
+butylated hydroxytoluene
+bht
+parabens
+parfum
+petrolatum
+siloxanes
+sodium laureth sulfate
+triclosan
+alcohol
+aluminium
+alum
+benzalkonium chloride
+benzoyl peroxide
+bisphenol-a
+bpa
+bps
+bisphenol-s
+carbon black
+coal tar dye
+p-phenylenediamine
+dibutyl phthalate
+phthalates
+dhp
+dbp5
+dehp
+dioxins
+gluten
+hydrolized wheat protein
+wheatgerm
+nickel
+lead
+mercury
+arsenic
+mercury
+hydroquinone
+octinoxate
+para-aminobenzoic acid
+paba
+benzphenone
+avobenzone
+ethoxycinnamate
+ethyl
+butyl
+methyl
+propyl
+isobutyl
+methyl
+paraphenylenediamine
+ppd
+peg
+polyethylene glycol
+dioxane
+1,4 dioxane
+petroleum
+petrolatum
+mineral oil
+petrochemicals
+phenoxyethanol
+propylene glycol
+peg
+butylene glycol
+silicone
+siloxanes
+sodium lauryl sulfate
+sls
+sodium laureth sulfate
+sles
+retinyl palmitate
+oxybenzone
+octyl methoxycinnamate
+talc
+tea
+triethanolamine
+dea
+diethanolamine
+mea
+monoethanolamine
+cocamide dea
+diethanolamine
+lauramide dea
